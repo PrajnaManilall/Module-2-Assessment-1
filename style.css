@@ -154,6 +154,16 @@ a.info-box {
 
 
 /*WEATHER*/
+
+.info-box-weather{
+      background-color : rgba(255, 255, 255, .8) ;
+      width   : 90%;
+      display : block;
+      margin  : auto;
+      margin-top : 12px;
+      padding    : 10px;
+}
+
 img.info-box-weather-icon{
      height : 60px;
      width  : 90px;
